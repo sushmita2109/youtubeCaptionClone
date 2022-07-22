@@ -27,6 +27,7 @@
   color: white;
   justify-content: center;
   align-items: center;
+  
 }
 .caption{
   display: flex;
@@ -80,4 +81,5 @@
   flex-direction: column;
   border: solid 3px blue;
   color: white;
+  height: 140px;
 }
