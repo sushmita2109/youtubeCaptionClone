@@ -1,0 +1,18 @@
+.App{
+  background-color: grey;
+  min-height: 100vh;
+}
+.caption-video{
+  display: flex;
+  flex-direction: row;
+}
+.caption{
+  margin: 2px 250px;
+
+}
+.audio{
+  display: flex;
+  flex-direction: column;
+  border: solid 3px black;
+  margin-top: 250px;
+}
